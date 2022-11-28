@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(95deg, rgb(30, 127, 191), rgb(174, 251, 255));
+    background: linear-gradient(95deg, rgb(0, 153, 255), rgb(119, 0, 255));
+    background: linear-gradient(95deg, rgb(0, 179, 255), rgb(234, 0, 255));
+    background-color: rgb(44, 192, 255);
+    box-sizing: border-box;
+    box-shadow: 0 0 15px rgb(134, 134, 134);
+    overflow-x: scroll;
+    align-items: center;
+    text-decoration-line: underline;
+}
